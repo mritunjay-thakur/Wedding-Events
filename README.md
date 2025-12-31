@@ -1,7 +1,6 @@
 # Wedding Planner Website
 
 **Live Demos:**  
-- GitHub Pages: https://mritunjay-thakur.github.io/weddingwebsite/  
 - Vercel: https://eventsbyjay.vercel.app/
 
 ---
